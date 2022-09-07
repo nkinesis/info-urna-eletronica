@@ -76,6 +76,10 @@
     line-height: 1.8em;
 }
 
+#answers .accordion-body img {
+    max-width: 100%;
+}
+
 footer {
     text-align: center;
     margin: 50px auto;
