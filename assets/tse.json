@@ -67,7 +67,7 @@
     },
     {
         "question": "poderia ter votos pré-carregados?",
-        "short_answer": "<p>Sim, mas esse tipo de fraude seria identificada antes mesmo do início da eleição atraǘes da impressão da zerésima, que ocorre para cada urna em cada seção em todo o Brasil.</p>",
+        "short_answer": "<p>Sim, mas esse tipo de fraude seria identificada antes mesmo do início da eleição através da impressão da zerésima, que ocorre para cada urna em cada seção em todo o Brasil.</p>",
         "long_answer": "<p>No dia marcado para a votação, às 7h, antes de o primeiro eleitor se dirigir à urna eletrônica para votar, o presidente da seção eleitoral, na presença dos mesários e fiscais dos partidos políticos, imprime então a zerésima, uma das fases mais importantes de auditoria das eleições. O documento contém toda a identificação da urna, comprova que nela estão registrados todos os candidatos e que não há voto computado para nenhum deles, ou seja, confirma que a urna tem “zero voto”. Após a impressão da zerésima, o presidente, os mesários e os fiscais presentes devem assiná-la.</p>",
         "sources": ["https://www.tse.jus.br/eleitor/glossario/termos/zeresima", "https://www.tse.jus.br/eleicoes/urna-eletronica/seguranca-da-urna/hash/resumos-digitais-hashes-das-eleicoes-2020-1o-e-2o-turnos"]
     },

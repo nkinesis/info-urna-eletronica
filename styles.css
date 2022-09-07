@@ -56,11 +56,15 @@
 
 #questions {
     margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #questions .badge {
     margin: 10px;
-    font-size: 1.3em;
+    font-size: 1em;
+    line-height: 1.3em;
 }
 
 #questions .badge a {
@@ -86,7 +90,7 @@ footer {
     }    
     #questions .badge {
         margin: 10px;
-        font-size: 1.3em;
-        line-height: 2em;
+        font-size: 1.2em;
+        line-height: 1.6em;
     }
 }
